@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ZGit Repo](https://github.com/Robert-Thaiyah/single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://robert-thaiyah.github.io/single-price-grid-component/)
 
 ## My process
 
