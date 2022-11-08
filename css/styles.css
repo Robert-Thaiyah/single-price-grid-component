@@ -78,6 +78,11 @@ li {
     line-height: 1.5;
 }
 
+.card-two > h2 {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
 .price {
     font-size: 2.4rem;
 }
@@ -88,7 +93,9 @@ li {
     opacity: 50%;
 }
 
-.sign-up {
+.button {
+    margin-top: 0.89rem;
+    display: inline-block;
     background-color: var(--bright-yellow-color);
     border-radius: 6px;
     border-style: none;
@@ -96,7 +103,7 @@ li {
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 0.8rem;
     width: 100%;
-    margin-top: 0.67rem;
+    text-align: center;
 }
 
 /* card three styles */
@@ -106,9 +113,10 @@ li {
     background-color: hsl(179, 62%, 49%);
 }
 
-.card-three > h3{
+.card-three > h2{
     color: #fff;
     margin-bottom: 1rem;
+    font-weight: 400;
 }
 
 /* media query */
